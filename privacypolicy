@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Informativa sulla Privacy</title>
+</head>
+<body>
+    <h1>Informativa sulla Privacy</h1>
+    <p>Se desideri che i tuoi dati vengano eliminati, ti preghiamo di seguire queste semplici istruzioni:</p>
+    <ol>
+        <li>Contatta il team di supporto: <a href="Manuele Borgia, Gaetano Visconti"</a></li>
+        <li>Nel tuo messaggio, specifica il tuo desiderio di eliminare i dati che hai fornito durante l'uso della nostra app.</li>
+        <li>Risponderemo alla tua richiesta e procederemo con l'eliminazione.</li>
+    </ol>
+    <p><strong>Nota:</strong> Poiché questa app è utilizzata a scopi educativi, i dati raccolti sono minimi e non saranno utilizzati per scopi commerciali. La tua privacy è importante per noi!</p>
+</body>
+</html>
